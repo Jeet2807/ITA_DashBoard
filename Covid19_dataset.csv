@@ -1,6 +1,7 @@
 Date,Name of State / UT,Total Confirmed cases,Death,Cured/Discharged/Migrated,New cases,New deaths,New recovered
 30-01-2020,Kerala,1,0,0,0,0,0
 31-01-2020,Kerala,1,0,0,0,0,0
+January,,1,0,0,0,0,0
 01-02-2020,Kerala,2,0,0,1,0,0
 02-02-2020,Kerala,3,0,0,1,0,0
 03-02-2020,Kerala,3,0,0,0,0,0
@@ -30,6 +31,7 @@ Date,Name of State / UT,Total Confirmed cases,Death,Cured/Discharged/Migrated,Ne
 27-02-2020,Kerala,3,0,0,0,0,0
 28-02-2020,Kerala,3,0,0,0,0,0
 29-02-2020,Kerala,3,0,0,0,0,0
+February,,3,0,0,1,0,0
 01-03-2020,Kerala,3,0,0,0,0,0
 02-03-2020,Delhi,1,0,0,0,0,0
 02-03-2020,Kerala,3,0,0,0,0,0
@@ -554,7 +556,8 @@ Date,Name of State / UT,Total Confirmed cases,Death,Cured/Discharged/Migrated,Ne
 31-03-2020,Uttar Pradesh,101,0,14,26,0,3
 31-03-2020,Uttarakhand,7,0,2,0,0,0
 31-03-2020,West Bengal,26,2,0,7,1,0
-31-03-2020,,1359,35,124,288,6,24
+March,,1359,35,124,288,6,24
+,,,,,,,
 01-04-2020,Andaman and Nicobar Islands,10,0,1,0,0,1
 01-04-2020,Andhra Pradesh,83,0,0,43,0,-1
 01-04-2020,Assam,1,0,0,0,0,0
@@ -1521,7 +1524,7 @@ Date,Name of State / UT,Total Confirmed cases,Death,Cured/Discharged/Migrated,Ne
 30-04-2020,Uttar Pradesh,2134,39,510,81,5,48
 30-04-2020,Uttarakhand,55,0,36,1,0,3
 30-04-2020,West Bengal,758,22,124,33,0,5
-30-04-2020,,33050,1074,8325,1718,67,629
+April,,33050,1074,8325,1718,67,629
 01-05-2020,Andaman and Nicobar Islands,33,0,16,0,0,1
 01-05-2020,Andhra Pradesh,1403,31,321,71,0,34
 01-05-2020,Arunachal Pradesh,1,0,1,0,0,0
@@ -2548,7 +2551,7 @@ Date,Name of State / UT,Total Confirmed cases,Death,Cured/Discharged/Migrated,Ne
 30-05-2020,Uttar Pradesh,7284,198,4244,114,1,29
 30-05-2020,Uttarakhand,716,5,102,216,1,23
 30-05-2020,West Bengal,4813,302,1775,277,7,107
-30-05-2020,,168720,4971,82370,7594,265,11264
+May,,168720,4971,82370,7594,265,11264
 31-05-2020,Andaman and Nicobar Islands,33,0,33,0,0,0
 31-05-2020,Andhra Pradesh,3569,60,2289,133,0,63
 31-05-2020,Arunachal Pradesh,4,0,1,1,0,0
@@ -3628,7 +3631,7 @@ Date,Name of State / UT,Total Confirmed cases,Death,Cured/Discharged/Migrated,Ne
 30-06-2020,Uttar Pradesh,22828,672,15506,681,12,698
 30-06-2020,Uttarakhand,2831,39,2111,8,1,93
 30-06-2020,West Bengal,17907,653,11719,624,14,526
-30-06-2020,,559836,16893,334822,18803,418,13099
+June,,559836,16893,334822,18803,418,13099
 02-07-2020,Andaman and Nicobar Islands,100,0,50,10,0,4
 02-07-2020,Andhra Pradesh,15252,193,6988,1361,13,756
 02-07-2020,Arunachal Pradesh,195,1,66,8,0,5
@@ -3772,4 +3775,4 @@ Date,Name of State / UT,Total Confirmed cases,Death,Cured/Discharged/Migrated,Ne
 07-07-2020,Uttar Pradesh,28636,809,19109,2082,36,955
 07-07-2020,Uttarakhand,3161,42,2586,68,0,84
 07-07-2020,West Bengal,22987,779,15235,1756,43,1069
-07-07-2020,,714631,20160,439948,46095,892,30865
+July,,714631,20160,439948,46095,892,30865
